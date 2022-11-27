@@ -7,7 +7,7 @@
 .header
 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 3.2rem;
+    font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
     color: #fff;
@@ -153,7 +153,7 @@ padding-top: 5%;
    }
    .iphone
    {
-     width: 100%;
-    padding-right: 60px;
+     width: 150%;
+    padding-right: 90px;
    }
 }
